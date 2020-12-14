@@ -52,7 +52,7 @@ p {
 }
 /*header styles end*/
 
-
+/*marketing start*/
 .hero {
     height: 800px;
     width: 100%;
@@ -132,6 +132,10 @@ p {
     font-size: 36px;
 }
 
+/* marketing end*/
+
+
+/*benefit section*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -191,6 +195,7 @@ p {
     max-width: 150px;
 }
 
+/*benefit section end*/
 
 footer {
     padding: 30px;
